@@ -1,7 +1,7 @@
 # 🚀 AI Career Coach - Intelligent Career Development Platform
 
 <div align="center">
-  <img src="https://i.imgur.com/your-uploaded-image.png" alt="SensAI - Your AI Career Coach for Professional Success" width="700"/>
+  <img src="public\Screenshot (21).png" alt="SensAI - Your AI Career Coach for Professional Success" width="700"/>
   
   <p align="center">
     <strong>An AI-powered career development platform that provides personalized career guidance, skill assessments, and intelligent resume optimization</strong>
