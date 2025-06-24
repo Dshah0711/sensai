@@ -1,7 +1,7 @@
 # 🚀 AI Career Coach - Intelligent Career Development Platform
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1" alt="AI Career Coach Platform" width="700"/>
+  <img src="https://i.imgur.com/your-uploaded-image.png" alt="SensAI - Your AI Career Coach for Professional Success" width="700"/>
   
   <p align="center">
     <strong>An AI-powered career development platform that provides personalized career guidance, skill assessments, and intelligent resume optimization</strong>
@@ -40,7 +40,7 @@
 
 ## 🎯 Project Overview
 
-**AI Career Coach** is a sophisticated full-stack web application designed to revolutionize career development through artificial intelligence. Built with modern technologies, this platform delivers personalized career guidance, comprehensive skill assessments, intelligent resume optimization, and real-time industry insights.
+**SensAI** is a sophisticated full-stack web application designed to revolutionize career development through artificial intelligence. Built with modern technologies, this platform delivers personalized career guidance, comprehensive skill assessments, intelligent resume optimization, and real-time industry insights.
 
 ### 🔑 Core Value Proposition
 - **Personalized AI Guidance**: Leverages Google Gemini AI for tailored career advice
@@ -175,7 +175,7 @@ PostgreSQL >= 13.0 (or Neon DB account)
 1. **Repository Setup**
 ```bash
 git clone https://github.com/Dshah0711/sensai.git
-cd ai-career-coach
+cd sensai
 ```
 
 2. **Dependency Installation**
@@ -469,5 +469,5 @@ Built with cutting-edge technologies and inspired by the need for intelligent ca
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanvi-shah-084080294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](somishah0711@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somishah0711@gmail.com)
 </div>
